@@ -21,7 +21,7 @@ public class math {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the question: ");
         int x = input.nextInt();
-        if (x == 6) {
+        if (x == 7) {
             System.out.println("True");
         } else {
             System.out.println("False");
