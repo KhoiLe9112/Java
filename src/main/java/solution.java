@@ -12,11 +12,11 @@ import java.util.Scanner;
 public class solution {
      public static void main(String[] args) {
        
-        System.out.print("a= ");
+        System.out.println("a= ");
         Scanner input = new Scanner(System.in);
         double a = input.nextDouble();
-        System.out.print("b= ");
+        System.out.println("b= ");
         double b = input.nextDouble();
-        System.out.print("x=  " + (-b/a));
+        System.out.println("x=  " + (-b/a));
     }
 }
